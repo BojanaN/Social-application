@@ -1,0 +1,43 @@
+.contact-details{
+    padding-left: 20px;
+    width: 78%;
+}
+
+.cd-details {
+    padding-left: 20px;
+}
+
+.cd-image{
+    width: 40%;
+}
+
+.cd-info{
+    width:50%;
+}
+
+.cd-info-item {
+    width: 33%;
+}
+
+.cd-info-item-value p{
+    font-weight: bold;
+    font-size: medium;
+}
+
+.cd-info-item-label {
+    font-size: small;
+}
+
+.row-item{
+    width:90%;
+    display: inline-flex;
+    margin-bottom: 10%;
+}
+
+p{
+    margin-bottom: 0px !important;
+}
+
+img {
+    width: 70%;
+}

@@ -1,0 +1,29 @@
+.nav-link span {
+    color: white ;
+    padding: 0px 15px 0px 15px;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    color: black;
+}
+
+.active-link {
+    font-size: 17px;
+    font-weight: bolder;
+}
+
+and (max-width: 767px) {
+    .a {
+        padding: 0px;
+    }
+    .nav-link {
+        padding: 15px 0px !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .nav-link {
+        padding: 15px 0px;
+    }
+}

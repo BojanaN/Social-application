@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "fullname": "John Doe",
+        "img": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "age": 30,
+        "sex": "Male",
+        "email": "johndoe@hotmail.com",
+        "phone": "202-555-0148",
+        "address": "354 Rockwell St. Montgomery, AL 36109"
+    },
+    {
+        "id": 2,
+        "fullname": "Alexandra Brooke",
+        "img": "https://images.unsplash.com/photo-1485893086445-ed75865251e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "age": 24,
+        "sex": "Female",
+        "email": "alex.br@gmail.com",
+        "phone": "202-555-0143",
+        "address": "460 Thorne St. La Vergne, TN 37086"
+    },
+    {
+        "id": 3,
+        "fullname": "Caroline Johnes",
+        "img": "https://images.unsplash.com/photo-1517365830460-955ce3ccd263?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "age": 29,
+        "sex": "Female",
+        "email": "johnes.caroline@gmail.com",
+        "phone": "202-555-0138",
+        "address": "8862 Second St. Wasilla, AK 99654"
+    },
+    {
+        "id": 4,
+        "fullname": "Ian Brown",
+        "img": "https://images.unsplash.com/photo-1553754507-b3f37c9f11a6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "age": 26,
+        "sex": "Male",
+        "email": "i_brown94@yahoo.com",
+        "phone": "202-555-0134",
+        "address": "9907 N. Walnutwood St. Hallandale, FL 33009"
+    },
+    {
+        "id": 5,
+        "fullname": "Bill Blake",
+        "img": "https://images.unsplash.com/photo-1582971805810-b24306e0afe7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "age": 32,
+        "sex": "Male",
+        "email": "bill.blake@outlook.com",
+        "phone": "202-555-0168",
+        "address": "25 Longfellow Rd. Orlando, FL 32835"
+    }
+]
